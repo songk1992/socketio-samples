@@ -1,4 +1,5 @@
-
+this directory is supplementary material for youtube tutorial
+https://www.youtube.com/watch?v=XvYhhM3ENsY
 
 if you have cloned this repo, use
 ```
